@@ -1,0 +1,6 @@
+[
+  { "name": "1-chase-runway.jpg", "query": "?shot=chase" },
+  { "name": "2-cockpit-approach.jpg", "query": "?shot=cockpit" },
+  { "name": "3-canyon-intercept.jpg", "query": "?shot=canyon" },
+  { "name": "4-sortie-select.jpg", "query": "?shot=title" }
+]
